@@ -1,0 +1,6 @@
+[ovh]
+username = example.ovh-johndoe
+password = changethispassword
+hostname = host1.example.ovh
+url_lookup = http://ipconfig.io
+ipv6 = 
